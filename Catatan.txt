@@ -1,0 +1,8 @@
+1. Login -> username = admin, password = admin
+2. Role user ada 2 : admin dan staff
+3. Hanya role user admin yang dapat melakukan CRUD data user
+4. Form register role user di set sebagai staff
+
+Kekurangan
+1. Ketika save new data user, remember_token masih null
+2. Belum tersedia update password
